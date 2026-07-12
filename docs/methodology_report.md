@@ -77,7 +77,21 @@ MA20/60 在 2020 年 3 月部分暴跌日处于 Cash，但也完全错过了 202
 项目可在 Windows Anaconda 环境 `ccb_quant` 中离线运行。`environment.yml` 固定关键依赖版本；`config/config.yaml` 保存研究参数；每个阶段读取上一阶段的已保存输出。`results/run_manifest.json` 记录提交文件和 SHA-256；`docs/test_evidence.md` 记录测试证据；`docs/reproducibility.md` 给出从新文件夹复现的命令。
 
 ## References
-
-Faber, M. T. (2007). A Quantitative Approach to Tactical Asset Allocation. *The Journal of Wealth Management*, 9(4), 69-79. https://doi.org/10.3905/jwm.2007.674809
-
-Moskowitz, T. J., Ooi, Y. H., & Pedersen, L. H. (2012). Time Series Momentum. *Journal of Financial Economics*, 104(2), 228-250. https://doi.org/10.1016/j.jfineco.2011.11.003
+Bailey, David H., Jonathan M. Borwein, Marcos López de Prado, and Qiji Jim Zhu (2017). “The Probability of
+Backtest Overfitting”. In: Journal of Computational Finance 20.4, pp. 39–69. DOI: 10.21314/JCF.2016.
+322.
+Brock, William, Josef Lakonishok, and Blake LeBaron (1992). “Simple Technical Trading Rules and
+the Stochastic Properties of Stock Returns”. In: The Journal of Finance 47.5, pp. 1731–1764. DOI:
+10.1111/j.1540‐6261.1992.tb04681.x.
+Faber, Mebane T. (2007). “A Quantitative Approach to Tactical Asset Allocation”. In: The Journal of Wealth
+Management 9.4, pp. 69–79. DOI: 10.3905/jwm.2007.674809.
+Hurst, Brian, Yao Hua Ooi, and Lasse Heje Pedersen (2017). “A Century of Evidence on Trend-Following
+Investing”. In: The Journal of Portfolio Management 44.1, pp. 15–29. DOI: 10.3905/jpm.2017.44.1.
+015.
+Jegadeesh, Narasimhan and Sheridan Titman (1993). “Returns to Buying Winners and Selling Losers:
+Implications for Stock Market Efficiency”. In: The Journal of Finance 48.1, pp. 65–91. DOI: 10.1111/j.
+1540‐6261.1993.tb04702.x.
+Moskowitz, Tobias J., Yao Hua Ooi, and Lasse Heje Pedersen (2012). “Time Series Momentum”. In: Journal
+of Financial Economics 104.2, pp. 228–250. DOI: 10.1016/j.jfineco.2011.11.003.
+Sullivan, Ryan, Allan Timmermann, and Halbert White (1999). “Data-Snooping, Technical Trading Rule
+Performance, and the Bootstrap”. In: The Journal of Finance 54.5, pp. 1647–1691. DOI: 10.1111/0022‐
