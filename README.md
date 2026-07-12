@@ -1,6 +1,6 @@
 # PUBLIC DEMO — BLOOMBERG DATA NOT INCLUDED
 
-# AI 辅助 ETF 趋势与时间序列动量回测系统
+# ETF 趋势与时间序列动量回测系统
 
 本项目是建行 Test 3（大型模型 AI 编程工具）候选项目。系统使用唯一获批的离线 Bloomberg QQQ CSV，完成数据验证、指标、原始信号、滞后一行执行、交易成本、净值、绩效指标、预声明稳健性检查与可视化。
 
